@@ -1,0 +1,11 @@
+#run react server
+
+env/Scripts/activate
+
+npm run start
+
+
+
+#run django server
+
+python manage.py runserver 127.0.0.1:8000
